@@ -1,4 +1,4 @@
-# Fshare
+# Youtube Colne
 
 ![Size](https://img.shields.io/github/repo-size/ankitkec18/Fshare?color=red&label=Repo%20Size%20)
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)
@@ -8,24 +8,32 @@
 
 ## OverView
 
-* A web application that emulates YouTube’s HomePage and SearchPage.
+- A web application that emulates YouTube’s HomePage and SearchPage.
 - Created a web application emulating YouTube’s HomePage and SearchPage functionality.
 - Utilized the YouTube API to display trending videos from selected countries.
 - Designed and integrated live search functionality, dynamically displaying 25 results in real time.
 
 ## Tech Stack
--Html
--Css
--React Js
--API
+-Html <br>
+-Css  <br>
+-React Js <br>
+-API<br>
 
 
 
 ## Sneak Peek of Site 🙈 :
 
-![screencapture-flipmart-tech-2021-10-08-10_08_14](https://ankitkr14.netlify.app/images/Screenshot%20(45).png)<br>
+![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/Youtube_Clone/blob/main/Screenshots/Youtube1.png)<br>
 <br>
-![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/ankitkec18/blob/main/img/Screenshot%20(49).png?raw=true)
+![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/Youtube_Clone/blob/main/Screenshots/Youtube2.png)
+
+![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/Youtube_Clone/blob/main/Screenshots/Youtube3.png)<br>
+<br>
+![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/Youtube_Clone/blob/main/Screenshots/Youtube4.png)
+![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/Youtube_Clone/blob/main/Screenshots/Youtube5.png)<br>
+<br>
+
+
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through below handles.
