@@ -25,12 +25,13 @@
 
 ![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/Youtube_Clone/blob/main/Screenshots/Youtube1.png)<br>
 <br>
-![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/Youtube_Clone/blob/main/Screenshots/Youtube2.png)
-
-![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/Youtube_Clone/blob/main/Screenshots/Youtube3.png)<br>
+![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/youtube_Clone/blob/main/Screenshots/youtube2.png)<br>
 <br>
-![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/Youtube_Clone/blob/main/Screenshots/Youtube4.png)
-![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/Youtube_Clone/blob/main/Screenshots/Youtube5.png)<br>
+![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/youtube_Clone/blob/main/Screenshots/Youtube3.png)<br>
+<br>
+![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/youtube_Clone/blob/main/Screenshots/Youtube4.png)<br>
+<br>
+![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/youtube_Clone/blob/main/Screenshots/Youtube5.png)<br>
 <br>
 
 
