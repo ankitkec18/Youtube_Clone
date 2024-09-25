@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Fshare
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Size](https://img.shields.io/github/repo-size/ankitkec18/Fshare?color=red&label=Repo%20Size%20)
+[![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)
+![](https://img.shields.io/tokei/lines/github/ankitkec18/Fshare?color=red&label=Lines%20of%20Code)
+![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
+![](https://profile-counter.glitch.me/{Fshare}/count.svg)
 
-## Available Scripts
+## OverView
 
-In the project directory, you can run:
+* A web application that emulates YouTube’s HomePage and SearchPage.
+- Created a web application emulating YouTube’s HomePage and SearchPage functionality.
+- Utilized the YouTube API to display trending videos from selected countries.
+- Designed and integrated live search functionality, dynamically displaying 25 results in real time.
 
-### `npm start`
+## Tech Stack
+-Html
+-Css
+-React Js
+-API
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Sneak Peek of Site 🙈 :
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![screencapture-flipmart-tech-2021-10-08-10_08_14](https://ankitkr14.netlify.app/images/Screenshot%20(45).png)<br>
+<br>
+![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/ankitkec18/blob/main/img/Screenshot%20(49).png?raw=true)
+<h2>📬 Contact</h2>
 
-### `npm run build`
+If you want to contact me, you can reach me through below handles.
+&nbsp;&nbsp;
+<p align="right"> 
+ 
+ [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=6082b6)](https://www.instagram.com/_insta_ankit/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=6082b6)](https://www.twitter.com/ankitkec/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=6082b6)](https://www.linkedin.com/in/ankitkec18/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=for-the-badge&logo=Facebook&logoColor=white&color=6082b6)](https://www.facebook.com/ankitkumarraj0/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+© 2022 Ankit Kumar
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
